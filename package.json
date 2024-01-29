@@ -1,5 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Reese Do",
+	"description": "A boilerplate website to practice npm",
+	"keywords": [ "freecodecamp", "npm", "boilerplate", "json" ],
+	"license": "GPL-3.0+",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
